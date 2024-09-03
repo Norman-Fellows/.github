@@ -1,12 +1,15 @@
 
 
-### Series 1: Student Work
+###[Series 1: Student Work](https://github.com/Norman-Fellows/Series-1-Student-Work)
 
 ### Series 2: Projects
 ### Series 3
-### Norman Fellows fonds 👋
+### Norman Fellows fonds 
+
+👋
 [See digitized items](https://www.flickr.com/photos/normanfellowsfonds)
 
+https://github.com/Norman-Fellows/Series-1-Student-Work
 
 
 <div align="center">
