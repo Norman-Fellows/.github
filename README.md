@@ -1,6 +1,6 @@
 
 
-[Series: Student Work](https://github.com/Norman-Fellows/Series-1-Student-Work)
+[Series 1: Student Work](https://github.com/Norman-Fellows/Series-1-Student-Work)
 
 ### Series 2: Projects
 ### Series 3
