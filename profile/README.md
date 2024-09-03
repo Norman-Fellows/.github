@@ -1,8 +1,9 @@
 ## Overview 👋
 
-## Series 1: Student Work
+### Series 1: Student Work
 
-# Series 2: Projects
+### Series 2: Projects
+### Series 3
 #
 
 ---
