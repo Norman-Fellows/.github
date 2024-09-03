@@ -1,6 +1,9 @@
 ## Overview 👋
 
-## Series 1: Studnet Work
+## Series 1: Student Work
+
+# Series 2: Projects
+#
 
 ---
 
