@@ -11,7 +11,7 @@
 The fonds documents the personal activities and professional practice of Norman Fellows
 
 
-### More on here
+### To be continued
 
 
 <!--
