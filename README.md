@@ -1,4 +1,4 @@
-## Norman Felllows fonds 👋
+## Norman Fellows fonds 👋
 [See digitized items](https://www.flickr.com/photos/normanfellowsfonds)
 
 <div align="center">
