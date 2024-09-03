@@ -2,7 +2,10 @@
 
 [Series 1: Student Work](https://github.com/Norman-Fellows/Series-1-Student-Work)
 
-### Series 2: Projects
+[Series 2: Projects](https://github.com/Norman-Fellows/Series-2-Projects)
+
+
+
 ### Series 3
 ### Norman Fellows fonds 
 
