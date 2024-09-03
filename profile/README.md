@@ -1,5 +1,6 @@
 ## Overview 👋
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+See digitized items [Norman Fellows fonds](https:www.flickr.com/photos/normanfellowsfonds).
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
