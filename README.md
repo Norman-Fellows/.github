@@ -1,5 +1,13 @@
-## Norman Fellows fonds 👋
+
+
+### Series 1: Student Work
+
+### Series 2: Projects
+### Series 3
+### Norman Fellows fonds 👋
 [See digitized items](https://www.flickr.com/photos/normanfellowsfonds)
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
