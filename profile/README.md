@@ -5,7 +5,7 @@
 
 ---
 
-### About Me :
+### Scope and Content:
 The fonds documents the personal activities and professional practice of Norman Fellows
 
 
