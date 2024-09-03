@@ -1,4 +1,9 @@
 ## Overview 👋
+
+![Alt text](https://flic.kr/p/2qdZrpp)
+
+https://flic.kr/p/2qdZrpp
+
 [See digitized items](https://www.flickr.com/photos/normanfellowsfonds)
 
 <div align="center">
