@@ -1,5 +1,5 @@
 ## Overview 👋
-See digitized items [Norman Fellows fonds](https://www.flickr.com/photos/normanfellowsfonds)
+[See digitized items](https://www.flickr.com/photos/normanfellowsfonds)
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
