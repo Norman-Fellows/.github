@@ -1,5 +1,5 @@
 ## Overview 👋
-See digitized items [Norman Fellows fonds](https:www.flickr.com/photos/normanfellowsfonds)
+See digitized items [Norman Fellows fonds](https://www.flickr.com/photos/normanfellowsfonds)
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
