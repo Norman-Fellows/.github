@@ -4,7 +4,7 @@
 
 [Series 2: Projects](https://github.com/Norman-Fellows/Series-2-Projects)
 
-
+[Series 3 - Professional and Personal Records](https://github.com/Archiblog/Series-3-Professional-and-Personal-Records)
 
 ### Series 3
 ### Norman Fellows fonds 
